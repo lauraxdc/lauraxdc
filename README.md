@@ -1,5 +1,5 @@
 #sobremim
-- Ola, me chamo Laura Linda
+- Ola, me chamo Laura 
 - meu email de contato laura.dutra.costa@escola.pr.gov.br
 - estou interessado em programação
 - 🌱 I’m currently learning ...
